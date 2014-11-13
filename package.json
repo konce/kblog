@@ -7,6 +7,7 @@
     "jade": ">= 0.0.1"
   },
   "devDependencies": {
+    "connect-flash": "^0.1.1",
     "mongoose": "^3.8.18"
   }
 }
